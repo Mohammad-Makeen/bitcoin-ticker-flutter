@@ -19,7 +19,6 @@ Making a crypto currency price checking app in which you'll be able to monitor y
 
 - Using the DropdownButton Widget from Material design.
 - Using Cupertino Widgets.
-- Showing the digital currency prices as the chosen currency changes .
-
+- Updating UI to show digital currency prices.
 
 
